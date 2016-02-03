@@ -30,4 +30,4 @@ Currently held by @eoinkelly.
 
 ### General members * 4
 
-Currently @jamesotron, @daniel.fone, @megahbite, and @mermop.
+Currently @jamesotron, @danielfone, @megahbite, and @mermop.

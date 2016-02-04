@@ -30,7 +30,7 @@ Currently held by [@eoinkelly](https://github.com/eoinkelly).
 
 ### General members * 4
 
-Currently:
+Currently held by:
   - James Harton [@jamesotron](https://github.com/jamesotron).
   - Daniel Fone [@danielfone](https://github.com/danielfone).
   - Megan Bowra-Dean [@megahbite](https://github.com/megahbite).

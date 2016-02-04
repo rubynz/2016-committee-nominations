@@ -18,16 +18,20 @@ Every nomination needs a second from another member of Ruby NZ. To second a nomi
 
 ### President
 
-Currently held by @parndt.
+Currently held by Philip Arndt [@parndt](https://github.com/parndt).
 
 ### Secretary
 
-Currently held by @awagener.
+Currently held by Amanda Wagener [@awagener](https://github.com/awagener).
 
 ### Treasurer
 
-Currently held by @eoinkelly.
+Currently held by [@eoinkelly](https://github.com/eoinkelly).
 
 ### General members * 4
 
-Currently @jamesotron, @danielfone, @megahbite, and @mermop.
+Currently 
+  - James Harton [@jamesotron](https://github.com/jamesotron)
+  - Daniel Fone [@danielfone](https://github.com/danielfone)
+  - Megan Bowra-Dean [@megahbite](https://github.com/megahbite)
+  - Merrin Macleod [@mermop](https://github.com/mermop).

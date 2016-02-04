@@ -30,8 +30,8 @@ Currently held by [@eoinkelly](https://github.com/eoinkelly).
 
 ### General members * 4
 
-Currently 
-  - James Harton [@jamesotron](https://github.com/jamesotron)
-  - Daniel Fone [@danielfone](https://github.com/danielfone)
-  - Megan Bowra-Dean [@megahbite](https://github.com/megahbite)
+Currently:
+  - James Harton [@jamesotron](https://github.com/jamesotron).
+  - Daniel Fone [@danielfone](https://github.com/danielfone).
+  - Megan Bowra-Dean [@megahbite](https://github.com/megahbite).
   - Merrin Macleod [@mermop](https://github.com/mermop).
